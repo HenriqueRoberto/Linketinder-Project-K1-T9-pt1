@@ -68,7 +68,7 @@ O banco de dados foi modelado utilizando **PostgreSQL**. A modelagem foi criada 
 
 ### Modelo Entidade-Relacionamento (DER)
 
-![DER Linketinder](DER-linketinder.png)
+![DER Linketinder](database/DER-linketinder.png)
 
 ### Tabelas
 - `candidatos` — dados dos candidatos
